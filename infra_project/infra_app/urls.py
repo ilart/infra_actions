@@ -1,7 +1,7 @@
 from django.urls import path
-# new comment
 
 from . import views
+
 
 app_name = 'infra_app'
 
